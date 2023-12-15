@@ -6,6 +6,8 @@ Submitted by: **KELVIN HUYNH**
 
 Time spent: **1** hours spent in total
 
+![]([https://i.imgur.com/JL1snRo.gif](https://github.com/xcodebyte/ios101/blob/main/capture.gif))
+
 ## Required Features
 
 The following **required** functionality is completed:
