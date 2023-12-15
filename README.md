@@ -29,10 +29,10 @@ Features: Einsenhower Matrix, Pomodoro timer, Habit tracker
 3. Duolingo App,
 Features: Rank ladder system, Desktop/mobile app sync, Feed dashboard
 
+
 Q: Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructors.
 
 A: An academic AI coaching tracking app. The user types in al relevant topics relating to a subject/course. The app uses AI to determine if the daily inputted notes satisfy the understanding of each topic. The app suggests area of improvements and sources for the user for deeper learning. The app also has the ability to generate quizzes and practice exams based on the notes and/or using AI.
-
 
 ## Notes
 
@@ -46,12 +46,10 @@ A: I had an issue with creating multiple layers. I had originally keyboard "ente
     @IBOutlet weak var labelTextToOrange2: UILabel!
     @IBOutlet weak var labelTextToOrange3: UILabel!
 
-            let randomColor = changeColor()
-        view.backgroundColor = randomColor
-        
         labelTextToOrange1.textColor = randomColor
         labelTextToOrange2.textColor = randomColor
         labelTextToOrange3.textColor = randomColor
+
 
     // Added a Monokai button that changes bg color + 3 layer's font color
     @IBAction func buttonMonokai(_ sender: UIButton) {
