@@ -38,7 +38,7 @@ A: An academic AI coaching tracking app. The user types in al relevant topics re
 
 Q: Describe any challenges encountered while building the app.
 
-A: I had an issue with creating multiple layers. I had originally keyboard "entered" the first layer into editor instead of mouse dragging the layer over. XCode would not allow me to add anymore layers. I had meticulously compared the prework's gifs and settings to see if I had accidently locked the layer. Creating a new project resolved my issue as I was able to generate 3 new layers via a mouse drag without issue.
+A: I had an issue with creating multiple layers. I had originally keyboard "entered" the first layer into editor instead of mouse dragging the layer over. Xcode would not allow me to add more layers without overriding the first. I had meticulously compared the prework's gifs and Xcode's settings to see if I had accidently locked the layer. Creating a new project resolved my issue and I was able to generate 3 new layers via a mouse drag without issue.
 
 ## Implemeneted features
     //The 3 layer's font color also changes with the 'Random BG Color' button
