@@ -6,7 +6,7 @@ Submitted by: **KELVIN HUYNH**
 
 Time spent: **1** hours spent in total
 
-![iOS App preview]([i.imgur.com/JL1snRo.gif](https://github.com/xcodebyte/ios101/blob/main/capture.gif))
+![iOS App preview](https://github.com/xcodebyte/ios101/blob/main/capture.gif)
 
 ## Required Features
 
